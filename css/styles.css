@@ -4,6 +4,7 @@ body {
 
 nav li {
     display: inline-block;
+    color: #0A3641;
 }
 
 nav a {
@@ -14,4 +15,8 @@ nav a {
 
 nav a:hover {
     text-decoration: underline;
+}
+
+img {
+    width: 100%;
 }
