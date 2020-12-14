@@ -9,6 +9,10 @@ body {
     background-color: white;
 }
 
+h1 {
+    font-family: 'SourceSansPro-Black', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 nav li {
     display: inline-block;
     color: #0A3641;
@@ -17,13 +21,18 @@ nav li {
 nav a {
     color: #0A3641;
     text-decoration: none;
-    padding: 10px;
+    padding: 40px;
 }
 
 nav a:hover {
     text-decoration: underline;
 }
 
+nav ul {
+    padding: 30px;
+}
+
 img {
     width: 100%;
 }
+
